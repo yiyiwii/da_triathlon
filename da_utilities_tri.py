@@ -1,3 +1,7 @@
+"""
+Author: Donghua (Lyla) Cai
+Date: Apr 26, 2019
+"""
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import lxml.html as lh
