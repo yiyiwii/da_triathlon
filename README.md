@@ -1,2 +1,3 @@
-# da_triathlon
-Analyze the Triathlon Data to Set a Goal for My First Half Triathlon
+# Data Analysis of Triathlon Data
+
+Publish in https://medium.com/@lyla.cai/use-data-analysis-to-set-a-goal-for-my-first-half-triathlon-a230f2d3d59
