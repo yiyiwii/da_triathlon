@@ -9,7 +9,7 @@ import lxml.html as lh
 import pandas as pd
 import numpy as np
 import copy
-from da_utilities_tri import *
+from tri_helper import *
 
 
 def main():
@@ -23,7 +23,7 @@ def main():
         df = pd.DataFrame()
         for gender in genders:
             for age_group in age_groups:
-                pages = 20
+                pages = 10
                 num_page = check_num_pages(pages, year, gender, age_group)
                 print("Total number of pages =", num_page, 'age=', age_group, 'gender=', gender)
 
